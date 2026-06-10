@@ -1,0 +1,1 @@
+All the OC models are available in the `oc` folder in netcdf format, which are self-explained.
